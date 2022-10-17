@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #F5EFE6;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    color: #638cb1e3;
+}
+
+header div .header {
+    padding: 20px;
+}
+
+.menu a {
+    padding: 5px 10px;
+    font-size: 16px;
+    color:#98A8F8;
+}
+div h2 {
+    margin-top: 25px;
+    color: #7ea6c9;
+}
+
+.entry {
+    text-align: left;
+    padding: 5px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+div.list {
+    text-align: center;
+}
+
+div.list ul {
+    text-align:left;
+    margin-left: 45%;
+}
